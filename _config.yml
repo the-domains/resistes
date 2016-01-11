@@ -1,0 +1,28 @@
+name: Resistes
+favicon: null
+layout_spectrum: 0.6286589417140931
+typography_spectrum: 0.48376062768511474
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7278895045164973
+  lightness: 0.5902933897450566
+  saturation: 0.5036909824702889
+  rhythmicContrast: 0.8611299151089042
+purpose: []
